@@ -82,4 +82,3 @@ do{
 }while(i<=n)
 
 
-happy
