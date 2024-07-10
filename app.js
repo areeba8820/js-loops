@@ -80,3 +80,6 @@ do{
     document.write("<br>" + i)
     i++;
 }while(i<=n)
+
+
+happy
